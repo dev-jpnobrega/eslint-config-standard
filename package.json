@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-standard",
+  "version": "1.0.0",
+  "description": "ESLINT Config Standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-jpnobrega/eslint-config-standard.git"
+  },
+  "keywords": [
+    "eslint",
+    "standard",
+    "config"
+  ],
+  "author": "devjpnobrega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-jpnobrega/eslint-config-standard/issues"
+  },
+  "homepage": "https://github.com/dev-jpnobrega/eslint-config-standard#readme",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0"
+  }
+}
